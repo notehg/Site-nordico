@@ -1,0 +1,306 @@
+body{
+    background-image: url(imagens/f.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 150px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 150px;
+    
+}
+
+
+h1{
+    text-align: center;
+}
+
+
+#arvore{
+    width: 500PX;  
+    height: 500px; 
+}
+
+.conteiner{
+
+    display: flex;
+}
+
+h2{
+    color: rgb(133, 45, 168);
+}
+
+
+.origem{
+    text-align: center;
+    border: 12px solid rgb(202, 34, 48) ;
+    border-radius: 10px 20px 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    align-items:center ;
+    background-color:#CD853F;
+    box-shadow: 10px 12px;
+}
+
+#maisTexto{
+    display: none;
+}
+
+#f{
+height: 583px;
+width:416px ;
+}
+    
+#g{
+height: 583px;
+width:416px ;
+}
+
+.d{
+float: left;
+display: flex;
+}
+
+#odin{
+height: 620px;
+width:416px ;
+}
+
+
+
+.t{
+display: flex;
+float: left;
+}
+
+#Tyr{
+height: 581px;
+width:413px
+}
+
+
+.h{
+display: flex;
+float: left; 
+} 
+
+#Heimdall{
+height: 583px;
+width:416px ;
+}
+    
+.l{
+display: flex;
+float: left;    
+} 
+
+
+#loki{
+height: 583px;
+width:416px ;
+}
+
+#Frigga{
+height: 581px;
+width:413px
+}
+    
+.r{
+display: flex;
+float: left; 
+}
+
+#Freya{
+height: 625px;
+width:416px ;    
+}
+
+.g{
+display: flex;
+float: left;     
+}
+
+#Idun{
+height: 709px;
+width:416px ;     
+}
+
+.i{
+display: flex;
+float: left;     
+}
+
+#Sif{
+height: 500px;
+width:423px ;     
+}
+    
+.s{
+display: flex;
+float: left;     
+}
+
+#thor{
+height: 500px;
+width:423px ;
+}
+
+.z{
+display: flex;
+float: left;      
+}
+
+
+
+@media screen and ( max-width : 500px ) {
+
+body{
+background-image: url(imagens/f.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+margin: auto;   
+}
+    
+    
+h1{
+text-align: center;
+}
+    
+    
+#arvore{
+width: 250PX;  
+height: 250px; 
+}
+    
+.conteiner{
+display: flex;
+}
+    
+h2{
+color: rgb(133, 45, 168);
+}
+    
+.origem{
+text-align: center;
+border: 12px solid rgb(202, 34, 48) ;
+border-radius: 10px 20px 30px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+align-items:center ;
+background-color:#CD853F;
+box-shadow: 10px 12px;
+}
+    
+#maisTexto{
+display: none;
+}
+
+#f{
+height: 300px;
+width:300px ;
+}
+
+#g{
+height: 300px;
+width:300px ;
+}       
+
+    
+.d{
+    display: block;
+    align-items:center ;
+}
+
+#h{
+height: 300px;
+width:300px ;
+}
+
+
+    
+#odin{
+height: 300px;
+width:300px ;
+}
+    
+    
+    
+.t{
+display: block;
+align-items:center ;
+}
+    
+#Tyr{
+height: 300px;
+width:300px ;
+}
+    
+    
+.h{
+display: block;
+align-items:center ;  
+} 
+    
+#Heimdall{
+height: 300px;
+width:300px ;
+}
+        
+.l{
+display: block;
+align-items:center ;
+} 
+    
+#loki{
+height: 300px;
+width:300px ;
+}
+
+#Frigga{
+height: 300px;
+width:300px ;    
+}
+
+.r{
+display: block;
+align-items:center ;  
+}
+
+#Freya{
+    height: 300px;
+    width:300px ;        
+    }
+    
+.g{
+display: block;
+align-items:center ;    
+}
+    
+#Idun{
+height: 300px;
+width:300px ;         
+}
+    
+.i{
+display: block;
+align-items:center ;    
+}
+    
+#Sif{
+height: 300px;
+width:300px ;      
+}
+        
+.s{
+display: block;
+align-items:center ;  
+}
+    
+#thor{
+height: 300px;
+width:300px ;    
+}
+    
+.z{
+display: block;
+align-items:center ;    
+}
+    
+}    
